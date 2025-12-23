@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\Youss\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\Youss\\OneDrive\\Bureau\\spark\\Analyse_du_trafic_des_taxis_New_York_City_Spark\\nyc-taxi-spark\\src\\main\\scala\\com\\krichenyoussef\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\Youss\\OneDrive\\Bureau\\spark\\Analyse_du_trafic_des_taxis_New_York_City_Spark\\nyc-taxi-spark\\src\\main\\scala\\com\\krichenyoussef\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\Youss\\OneDrive\\Bureau\\spark\\Analyse_du_trafic_des_taxis_New_York_City_Spark\\nyc-taxi-spark\\src\\main\\scala\\com\\krichenyoussef\\.scala-build\\ide-envs.json",
+    "C:\\Users\\Youss\\OneDrive\\Bureau\\spark\\Analyse_du_trafic_des_taxis_New_York_City_Spark\\nyc-taxi-spark\\src\\main\\scala\\com\\krichenyoussef\\Main.scala"
+  ],
+  "version": "1.5.4",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

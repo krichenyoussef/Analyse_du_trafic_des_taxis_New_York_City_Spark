@@ -1,0 +1,27 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Youss\OneDrive\Bureau\spark\Analyse_du_trafic_des_taxis_New_York_City_Spark\nyc-taxi-spark\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Youss\OneDrive\Bureau\spark\Analyse_du_trafic_des_taxis_New_York_City_Spark\nyc-taxi-spark\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	IngestResult.class
+[debug] 	Main.class
+[debug] 	AppConfig$.class
+[debug] 	SparkSessionFactory$.class
+[debug] 	Paths.class
+[debug] 	Readers.class
+[debug] 	Paths$.class
+[debug] 	Main$.class
+[debug] 	AppConfig.class
+[debug] 	TimeFeatures.class
+[debug] 	SparkSessionFactory.class
+[debug] 	SparkSessionFactory$.class
+[debug] 	IngestJob.class
+[debug] 	SparkSessionFactory.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	IngestJob$.class
+[debug] 	TimeFeatures$.class
+[debug] 	IngestResult$.class
+[debug] 	Readers$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Youss\OneDrive\Bureau\spark\Analyse_du_trafic_des_taxis_New_York_City_Spark\nyc-taxi-spark\target\scala-2.12\classes.bak
